@@ -1,0 +1,4 @@
+{
+    "restApiBaseUrl": "http://127.0.0.1:8085/api",
+    "wsApiBaseUrl": "ws://127.0.0.1:8085/api/ws"
+}
